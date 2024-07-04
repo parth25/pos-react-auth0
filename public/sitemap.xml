@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.google.com/schemas/sitemap/0.84" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <url>
+    <loc>https://lead.masernet.com/welcome/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/portal/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/pricing/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/login/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/signup/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/legal/term-and-condition/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/legal/privacy-policy/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/legal/data-protection-addendum/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lead.masernet.com/legal/cookie-policy/</loc>
+    <lastmod>2024-06-28</lastmod>
+  </url>
+</urlset>
